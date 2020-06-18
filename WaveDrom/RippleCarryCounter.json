@@ -1,0 +1,12 @@
+
+{ 'signal' :
+  [
+    { 'name': 'clock',      'wave': 'N.......................',  period:  1},
+    { 'name': 'reset',      'wave': 'h.l.....................',  period:  1},
+    { 'name': 'q0',         'wave': 'l..hlhlhlhlhlhlhlhlhlhlh',  period:  1},
+    { 'name': 'q1',         'wave': 'l...h.l.h.l.h.l.h.l.h.l.',  period:  1},
+    { 'name': 'q2',         'wave': 'l.....h...l...h...l...h.',  period:  1},
+    { 'name': 'q3',         'wave': 'l.........h.......l.....',  period:  1},
+  ],
+ }
+
